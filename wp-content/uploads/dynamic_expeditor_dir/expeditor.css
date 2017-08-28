@@ -98,7 +98,7 @@
 	.btn, .banners-wrap:not(.type-2) > .banner-item:hover > .banner-inner, body .wpcf7-submit, body form.track_order  .button, .link-attachment:hover, .info-links > li a:before, body .audioplayer-bar-played,
 	.custom-select .select-list li:hover, body .product-image .added_to_cart.wc-forward, body .woocommerce.widget_price_filter .price_slider_amount button
 	{
-		background: #d10a11;
+		background: #038ed3;
 	}
 	.info-btn:hover {
 		border-color: #d10a11;
