@@ -1,0 +1,39 @@
+/*
+Theme Name: Expeditor
+Theme URI: http://themeforest.net/user/Monkeysan/portfolio
+Author: Designed by Monkeysan
+Author URI: velikorodnov.com
+Description: Expeditor � the ultimate WordPress theme for cargo, logistics, warehouse, freight & transportation company. 
+Version: 1.0
+Tags: one-column, two-columns, left-sidebar, right-sidebar, sticky-post, theme-options
+Text Domain: expeditor
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+- Please do not delete or modify this file.
+- This file is only in your theme folder for WordPress to recognize basic theme data like name and version.
+- CSS Rules in this file will not be used by the theme.
+*/
+
+    .wp-caption.alignright {
+		margin-bottom: 20px;
+		margin-left: 20px;
+	}
+	.wp-caption.alignleft  {
+		margin-bottom: 20px;
+		margin-right: 20px;
+	}
+	.wp-caption.alignnone { margin-bottom: 20px; }
+	.wp-caption 	 { max-width: 100%; }
+	.wp-caption-text { margin: 5px 0; } 
+    
+	
+	.gallery {
+		margin-bottom: 1.5em;
+	}
+	.gallery-caption {
+		display: block;
+	}
+	.bypostauthor {
+		display: block;
+	}
+	
